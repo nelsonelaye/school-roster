@@ -14,8 +14,32 @@ The operations/functions involve in this program include
 
 ## Implementation
 
-To implement this program in typescript, you got to have typescript install on your system. To install typescript, simply use:
+To implement this program in typescript, you've got to have typescript install on your system. To install typescript, simply use the code below:
 
 ```shell
 npm install -g typescript
 ```
+
+Then in your project folder, run the code below to generate typescript configuration file:
+
+```shell
+tsc --init
+```
+
+After writing the program in typescript:
+
+```shell
+tsc index.ts
+```
+
+...will generate the javascript file for the typescript code. Then I will run:
+
+```shell
+node index.js
+```
+
+...to run the javascript file to view the result of my code.
+
+## Resource
+
+[Learn more about Typescript](https://www.typescriptlang.org/docs/handbook/intro.html)
