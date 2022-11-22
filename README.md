@@ -2,11 +2,9 @@
 
 ## Introduction
 
-This program is created to manage a simple school's roster. The student data only contains the student name and their respective class grade.
+This program is created to manage a simple school roster.I created this program as part of my organization task and to gain more practice on typescript.
 
-Also, I created this program to gain more practice on typescript.
-
-The operations/functions involve in this program include
+The student data only contains the student name and their respective class grade. The operations/functions involve in this program include
 
 - Add new student to the roster
 - Get the list of student in a particular grade
